@@ -32,7 +32,7 @@ The dataset used in this project is included in the `data/` folder.
 
 ## Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## Status
 Completed
